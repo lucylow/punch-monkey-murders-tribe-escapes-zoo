@@ -1,5 +1,4 @@
-# THE STORY FORGE
-### The Creative Command Center for *The Stuffed God of Monkey Mountain*
+# punch-monkey-murders-tribe-escapes-zoo
 
 ![Project Status](https://img.shields.io/badge/status-complete-success)
 ![Framework](https://img.shields.io/badge/Next.js-App%20Router-black)
