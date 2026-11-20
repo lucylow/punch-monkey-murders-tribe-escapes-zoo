@@ -8,6 +8,8 @@
 ![Data](https://img.shields.io/badge/Data-Mock%20%2B%20LocalStorage-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+![](https://github.com/lucylow/punch-monkey-murders-tribe-escapes-zoo/blob/main/Stuffed%20God%20of%20Monkey%20Mountain.png?raw=true)
+
 **THE STORY FORGE** is a comprehensive, interactive story-development platform designed to manage the creative universe of *The Stuffed God of Monkey Mountain*.
 
 It combines professional manuscript editing, character management, world-building, story planning, timeline visualization, scientific research organization, continuity tracking, and project analytics in one integrated application.
